@@ -8,7 +8,7 @@ function Header(){
     return(
         <>
 
-            <Grid container spacing={3}>
+            <Grid container spacing={3} style={{ backgroundColor:"lightblue"}}>
                 <Grid xs={3} >     
                 </Grid>
                 <Grid xs={2} style={{marginTop:"50px", cursor:"pointer"}}>
